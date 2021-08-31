@@ -1,0 +1,5 @@
+G:\aspnetb6-test2-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+G:\aspnetb6-test2-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+G:\aspnetb6-test2-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+G:\aspnetb6-test2-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+G:\aspnetb6-test2-main\AdmissionTest\Tasks\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
